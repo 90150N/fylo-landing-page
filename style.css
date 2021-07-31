@@ -1,0 +1,198 @@
+:root {
+  --bs-primary-dark: hsl(243, 87%, 12%);
+  --bs-primary-desaturated: hsl(238, 22%, 44%);
+  --bs-accent-bright: hsl(224, 93%, 58%);
+  --bs-accent-moderate: hsl(170, 45%, 43%);
+  --bs-neutral-grayish: hsl(240, 75%, 98%);
+  --bs-neutral-gray: hsl(0, 0%, 75%);
+  --bs-font-open-sans: 'Open Sans', sans-serif;
+  --bs-font-raleway: 'Raleway', sans-serif;
+}
+
+* {
+  margin: 0px;
+  line-height: 1.8;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  
+}
+
+body {
+  font-family: var(--bs-font-open-sans);
+  font-weight:400 ;
+  scroll-behavior: smooth;
+  color: var(--bs-primary-dark);
+}
+
+.page-pad {
+  padding: 30px;
+}
+
+.header {
+  font-family: var(--bs-font-raleway);
+  padding-bottom: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  max-width: 90px;
+  height: auto;
+}
+
+.navbar ul {
+  display: flex;
+  list-style: none;
+
+}
+
+.navbar ul li a {
+  display: flex;
+  padding-left: 1em;
+  text-decoration: none;
+  color: inherit;
+}
+section {
+  display: flex;
+}
+
+section .content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+}
+
+.site-image {
+  max-width: 50%;
+  height: auto;
+}
+
+h1 {
+  font-family: var(--bs-font-raleway);
+  font-weight: 700;
+  padding-bottom: 1em;
+}
+
+p {
+  font-size: .8em;
+}
+
+.first-section .content form {
+  padding-top: 30px;
+}
+
+.first-section .content form input{
+  padding: 5px;
+  width: 60%;
+}
+
+button {
+  color: #fff;
+  background-color: var(--bs-primary-dark);
+  border: none;
+  padding: 7px 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+button:hover {
+  background-color: var(--bs-accent-bright);
+}
+
+.border-img {
+  display: block;
+  width: 100%;
+  height: auto;
+  
+}
+
+.sect-ii {
+  background-color: var(--bs-neutral-grayish);
+  margin-top: 0px;
+}
+
+
+.sect-ii .content a {
+  color: #379081;
+}
+
+.testimony{
+  background-color: white;
+  width: 300px;
+  padding: 20px;
+  margin-top: 20px;
+  font-size: .79em;
+  border-radius: 9px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.aurthor-info {
+  display: flex;
+  padding-top: 18px;
+}
+
+.aurthor-info img{
+  width: 33px;
+  height: auto;
+  border-radius: 15px;
+}
+
+.aurthor-details {
+  padding-left: 8px;
+}
+
+.aurthor-name {
+  font-weight: 600;
+}
+
+.sect-iii {
+  background-color: #4E507B;
+  color: white;
+  padding-top: 80px;
+  padding-bottom: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.sect-iii .left-content {
+  max-width: 500px;
+}
+
+.sect-iii .right-content .access {
+  display: block;
+}
+
+.sect-iii .right-content .access input {
+  width: 100%;
+  padding: 5px;
+}
+
+
+.sect-iii .right-content .access button {
+  margin-top: 12px;
+}
+
+footer {
+  background-color: var(--bs-primary-dark);
+  padding-bottom: 40px;
+  color: white;
+}
+
+footer .footer-rows {
+  display: flex;
+  justify-content: space-between;
+}
+
+.phone, .mail {
+  display: flex;
+  padding: 8px;
+}
+
+.phone img, .mail img {
+  align-self: center;
+  margin-right: 9px;
+}
+
+.second-row p, .third-row p {
+  padding: 8px;
+}
