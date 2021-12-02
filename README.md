@@ -23,11 +23,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./ScreenshotFylo.jpg)
+![](/ScreenshotFylo.jpg)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Fylo Page](https://myfylo.netlify.app/)
 
 ### Built with
 
