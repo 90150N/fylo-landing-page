@@ -196,3 +196,67 @@ footer .footer-rows {
 .second-row p, .third-row p {
   padding: 8px;
 }
+
+.last-row a{
+  text-decoration: none;
+  color: #fff;
+  margin-left: 10px;
+}
+
+@media screen and (max-width: 768px){ 
+  .sect-ii,
+  .first-section {
+    display:flex;
+    flex-direction: column-reverse;
+  }
+
+  .sect-iii {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .site-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%;
+  }
+
+}
+
+@media screen and (max-width: 404px){
+  .navbar ul li a {
+    font-size: small;
+  }
+
+  h1,
+  .first-section .content p,
+  .sect-ii .content a {
+    text-align: center;
+  }
+
+  .first-section .content form input {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .first-section .content form button {
+    width: 100%;
+  }
+
+  footer .footer-rows {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .first-row,
+  .second-row,
+  .third-row {
+    padding-bottom: 20px;
+  }
+
+  .last-row {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
