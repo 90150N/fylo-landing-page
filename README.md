@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Website screenshot](ScreenshotFylo.jpg?raw=true)
+![ScreenshotFylo](https://user-images.githubusercontent.com/38103061/144436037-61508c73-22c3-4694-85d5-2b38526d5d5d.png)
 
 ### Links
 
