@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/ScreenshotFylo.jpg)
+![Website screenshot](ScreenshotFylo.jpg?raw=true)
 
 ### Links
 
