@@ -1,6 +1,6 @@
 # Frontend Mentor - Fylo landing page with two column layout solution
 
-This submission represents a well-crafted solution to the [Fylo landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5), showcasing a two-column layout and advanced design features. It is a meticulously designed webpage that effectively presents the company's message and mission, with an intuitive user interface that is both aesthetically pleasing and easy to navigate. The solution is built with a focus on attention to detail, utilizing cutting-edge web development technologies such as HTML, CSS, and JavaScript to achieve a polished and professional look. 
+This submission represents a well-crafted solution to the [Fylo landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5), showcasing a two-column layout and advanced design features. It is a meticulously designed webpage that effectively presents the company's message and mission, with an intuitive user interface that is both aesthetically pleasing and easy to navigate. The solution is built with a focus on attention to detail, utilizing web development technologies such as HTML, CSS, and JavaScript to achieve a polished and professional look. 
 
 ## Table of contents
 
